@@ -13,5 +13,6 @@ int main()
 	cout << a.GetName() << endl;
 	a.setName('h');
 	cout << a.GetName() << endl;
+	cout << a.GetName() << endl;
 	return 0;
 }
