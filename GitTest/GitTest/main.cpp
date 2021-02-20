@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
 	Person a;
-	a.setName('A');
+	a.setName('B');
 	cout << a.GetName() << endl;
 	return 0;
 }
