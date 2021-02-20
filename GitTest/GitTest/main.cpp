@@ -5,8 +5,7 @@ using namespace std;
 int main()
 {
 	Person a;
-	a.setName('B');
+	a.setName('A');
 	cout << a.GetName() << endl;
-	system("Pause");
 	return 0;
 }
